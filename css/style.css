@@ -20,9 +20,9 @@ html, body {
 }
 
 .inner img {
-  height: 150px;
-  width: 150px;
-  border-radius: 50%;
+  height: 300px;
+  width: 200px;
+  /* border-radius: 50%; */
   border: 2px solid black;
 }
 
@@ -97,5 +97,5 @@ a.btn.btn-info {
 }
 .card-top{
   background:white !important;
-  
+
 }
